@@ -1,2 +1,9 @@
-# study
-Learning programming languages, computer science, game making etc.
+# Study
+Let's learn together!
+
+## Themes
+- Programming languages
+- Computer science
+- Game making.
+
+### Optional
