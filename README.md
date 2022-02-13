@@ -5,5 +5,3 @@ Let's learn together!
 - Programming languages
 - Computer science
 - Game making.
-
-### Optional
