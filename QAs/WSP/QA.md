@@ -4,6 +4,13 @@
 ### Q. 질문: 궁금합니다.
 ### A. 답변: 이렇습니다.
 
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+</details>
+
 ## Part 1.2. 컴퓨터 하드웨어의 구성
 
 ## Part 1.3. CPU에 대한 이해
